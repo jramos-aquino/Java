@@ -1,4 +1,4 @@
-public class OláArbyte 
+public class OlaArbyte 
    {
     	public static void main(String[] args) 
     	{
